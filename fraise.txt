@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 j'aime la fraise bien mure
+=======
+j'aime la fraise des bois
+>>>>>>> branche-y
